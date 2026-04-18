@@ -1,4 +1,4 @@
-# Vikas-Kumar-JavaStrings
+# Vikash-Kumar-JavaStrings
 This repository contains Java String method practice including:
 - length()
 - concat()
